@@ -1,0 +1,18 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Inter, serif;
+}
+.App{
+    padding: 60px 0;
+    background: #e5e5e5;
+    min-height: 100vh;
+
+}
+.container{
+    max-width: 1360px;
+    margin: 0 auto;
+    width: 100%;
+    padding: 0 20px;
+}
